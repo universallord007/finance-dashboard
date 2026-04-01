@@ -21,7 +21,7 @@ A production-quality, fully responsive Finance Dashboard built with React, Recha
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
+git clone https://github.com/universallord007/finance-dashboard.git
 cd Zoryn_intern
 
 # 2. Install dependencies
